@@ -1,5 +1,5 @@
 {
-    "name": "guava/filament-modal-relation-managers",
+    "name": "arthur-sk/filament-modal-relation-managers",
     "description": "Allows you to embed relation managers inside filament modals.",
     "keywords": [
         "Guava",

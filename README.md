@@ -3,10 +3,10 @@
 
 # Allows you to embed relation managers inside filament modals.
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/guava/filament-modal-relation-managers.svg?style=flat-square)](https://packagist.org/packages/guava/filament-modal-relation-managers)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/arthur-sk/filament-modal-relation-managers.svg?style=flat-square)](https://packagist.org/packages/arthur-sk/filament-modal-relation-managers)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/guavaCZ/filament-modal-relation-managers/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/guavaCZ/filament-modal-relation-managers/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/guavaCZ/filament-modal-relation-managers/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/guavaCZ/filament-modal-relation-managers/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/guava/filament-modal-relation-managers.svg?style=flat-square)](https://packagist.org/packages/guava/filament-modal-relation-managers)
+[![Total Downloads](https://img.shields.io/packagist/dt/arthur-sk/filament-modal-relation-managers.svg?style=flat-square)](https://packagist.org/packages/arthur-sk/filament-modal-relation-managers)
 
 This package allows you to embed any of your relation managers inside modals using a provided filament action.
 
@@ -35,7 +35,7 @@ While our plugin is available for all to use, if you are utilizing it for commer
 You can install the package via composer:
 
 ```bash
-composer require guava/filament-modal-relation-managers
+composer require arthur-sk/filament-modal-relation-managers
 ```
 
 ## Assets
@@ -43,7 +43,7 @@ composer require guava/filament-modal-relation-managers
 Make sure you have a custom filament theme installed (more info in the official documentation [here](https://filamentphp.com/docs/3.x/panels/themes#creating-a-custom-theme)) and add the following to your `theme.css` file property, so that our CSS overrides are correctly built:
 
 ```css
-@source '../../../../vendor/guava/filament-modal-relation-managers/resources/**/*';
+@source '../../../../vendor/arthur-sk/filament-modal-relation-managers/resources/**/*';
 ```
 
 ## Usage
